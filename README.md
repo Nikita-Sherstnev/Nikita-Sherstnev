@@ -24,13 +24,13 @@ Inspiring people: Uncle Bob, Edsger Dijkstra, George Hotz, Julian Assange.
 
 I like movies, music, and good novels. Dreamed of becoming writer one day, but found out that programming is the modern way of telling stories.
 
-Job applications (hired/all): **4/12**
 
 [![Profile badge](https://www.codewars.com/users/Sherstnev/badges/small)](https://www.codewars.com/users/Sherstnev)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikita-Sherstnev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+![Профиль в Science Index](https://elibrary.ru/author_counter.aspx?id=1139071)
 <!--
 **Nikita-Sherstnev/Nikita-Sherstnev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
