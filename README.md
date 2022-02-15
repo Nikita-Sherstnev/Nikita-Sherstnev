@@ -30,7 +30,7 @@ I like movies, music, and good novels. Dreamed of becoming writer one day, but f
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikita-Sherstnev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![Профиль в Science Index](https://elibrary.ru/author_counter.aspx?id=1139071)
+[![Профиль в Science Index](https://elibrary.ru/author_counter.aspx?id=1139071)](https://www.elibrary.ru/author_items.asp?authorid=1139071)
 <!--
 **Nikita-Sherstnev/Nikita-Sherstnev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
