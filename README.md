@@ -4,7 +4,7 @@ I'm trying to become craftsman in programming.
 
 My stack:
 
-- Languages (order by expirience desc): **Python**, **Java**, **PHP**, **JS**, **C#**, **C**, **Clojure**
+- Languages (order by expirience desc): **Python**, **Java**, **PHP**, **JavaScript**, **C#**, **C**, **C++**, **Rust**, **Clojure**
 - Front-end: **HTML**, **CSS**, **JS**, *Vue*, *React*
 - Back-end: **Spring Boot**, **Flask**, **Tornado**, **Django**, **Apache Airflow**
 - Data Science: **Numpy**, **Pandas**, **Matplotlib**, **PyTorch**, **OpenCV**, **Scikit-learn**, **Transformers**, **Apache Spark**
@@ -12,6 +12,7 @@ My stack:
 
 I'm looking forward to learn:
 
+- Rust
 - Clojure
 - Dive deeper into deep learning
 - Smart contracts
